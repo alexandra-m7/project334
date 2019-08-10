@@ -1,0 +1,29 @@
+.booking-form {
+    
+    padding-left: 10px;
+	padding-right: 10px;
+	
+	background-color: #4bb3fd;
+    box-shadow: 3px 5px 10px #00487c;
+}
+
+h1 {
+	font-family: garamond;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+	
+hr {
+    display: block;
+	width: 100%;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid black;
+    margin: 1em 0;
+}
+
+.room-grid {
+	margin-left: 0;
+	margin-right: 0;
+	
+}
